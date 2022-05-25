@@ -1,0 +1,20 @@
+body {
+    color: white;
+    background-color: rgb(26, 29, 26);
+    text-align: center;
+}
+
+a.linkum {
+    color: rgb(192, 194, 191);
+    text-decoration: none;
+} /* inicial */
+
+a.linkum:hover {
+    color: rgb(192, 194, 191);
+    text-decoration: underline;
+} /* mouse sobre o link */
+
+/*
+:visited para link visitado
+:active para link que foi clicado
+*/
